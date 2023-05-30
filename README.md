@@ -164,9 +164,9 @@ Para arrancar el entorno necesario, puedes usar los siguientes comandos.
 
 Cuando haya funcionado, verás los indicadores con valores y las gráficas indicando los cambios históricos. 
 
-![Evidencia del flow]()
+![Evidencia del flow](https://github.com/carlosrivi/flow6/blob/main/Captura%20desde%202023-05-29%2022-08-41.png)
 
-![Evidencia del Dashboard]()
+![Evidencia del Dashboard](https://github.com/carlosrivi/flow6/blob/main/Captura%20desde%202023-05-29%2022-07-47.png)
 
 **Consejo**: Intenta cambiar el rango de las gráficas historicas a 1 semana y deja el flow funcionando por varios días, observarás la dinamica de clima.
 **Consejo**: Intenta usar este flow en presencia de otros usuarios, verás la información de cada uno de ellos en las gráficas de la sección colaborativa.
